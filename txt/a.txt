@@ -1,1 +1,3 @@
-nova funcionalidade
+Nova funcionalidade X
+
+Funcionalidade B pronta
